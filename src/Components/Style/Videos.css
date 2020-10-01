@@ -1,0 +1,16 @@
+.videos {
+    flex: 0.8;
+    padding: 20px 20px;
+    padding-bottom: 0;
+}
+
+.videos > h3{
+
+}
+
+
+.videos__content {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}

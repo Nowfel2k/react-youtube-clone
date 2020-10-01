@@ -1,0 +1,30 @@
+.videoRow {
+    display: flex;
+    padding: 10px 10px;
+}
+
+.videoRow>img {
+    cursor: pointer; 
+    width: 350px;
+    object-fit: contain;
+}
+
+.videoRow__text >h3 {
+    cursor: pointer !important;
+}
+
+.videoRow__text {
+    margin-left: 14px;
+}
+
+.videoRow__headline {
+    font-size: 12px;
+    color: #606060;
+    cursor: pointer;
+}
+
+.videoRow__description {
+    margin-top: 20px;
+    font-size: 12px;
+    color: #606060;
+}

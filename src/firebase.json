@@ -1,0 +1,11 @@
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyCtFHNnB1QAQBBu5W5RApbZYxM4OxKKCIs",
+  authDomain: "react-e8826.firebaseapp.com",
+  databaseURL: "https://react-e8826.firebaseio.com",
+  projectId: "react-e8826",
+  storageBucket: "react-e8826.appspot.com",
+  messagingSenderId: "964388453242",
+  appId: "1:964388453242:web:8e2576e4c16d60ca5f74c3",
+  measurementId: "G-RBSX2ZK3S5"
+};

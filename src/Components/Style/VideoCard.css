@@ -1,0 +1,47 @@
+.videocard {
+    /* border: 1px solid black; */
+    width: 270px;
+    margin-bottom: 40px;
+}
+
+.videocard>img {
+    height: 140px;
+    width: 250px;
+    cursor: pointer;
+    object-fit: contain;
+}
+
+.videocard__info {
+    display: flex;
+    padding-top: 5px;
+}
+
+.videocard__text {
+    margin-left: 15px;
+    
+}
+
+.videocard__text>h4 {
+    font-size: 14px;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+.videocard__text>h4:hover {
+    text-decoration: underline;
+}
+
+.videocard__text>p {
+    font-size: 14px;
+    color: gray;
+}
+
+.videocard__avatar {
+    height: 30px !important;
+    cursor: pointer;
+    width: 30px !important;
+}
+
+pureText {
+    cursor: default !important;
+}
