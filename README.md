@@ -1,3 +1,7 @@
+YouTube React Clone Using Material UI 
+
+Thanks to @Clever Programmer for teaching me.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
